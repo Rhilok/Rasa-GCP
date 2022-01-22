@@ -1,4 +1,4 @@
-runtime: python3
+runtime: custom
 env: flex
 
 runtime_config:
